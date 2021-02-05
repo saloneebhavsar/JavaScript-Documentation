@@ -33,9 +33,35 @@
         <li><a href="#var">Var</a></li>
       </ul>
     </li>
-    
+    <li>
+      <a href="#Datatypes">Data Types</a>
+      <ul>
+        <li><a href="#Number">Number</a></li>
+        <li><a href="#String">String</a></li>
+        <li><a href="#Boolean">Boolean</a></li>
+        <li><a href="#Null">Null</a></li>
+        <li><a href="#Undefined">Undefined</a></li>
+        <li><a href="#Arrays">Arrays</a></li>
+        <li><a href="#Objects">Objects</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Popup-Boxes">Popup Boxes</a>
+      <ul>
+        <li><a href="#Alert-Box">Alert Box</a></li>
+        <li><a href="#Confirm-Box">Confirm Box</a></li>
+        <li><a href="#Prompt-Box">Prompt Box</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Basic-operators">Basic operators</a>
+    </li>
+    <li>
+      <a href="#Conditional-Statements">Conditional Statements</a>
+    </li> 
   </ol>
 </details>
+ 
 ## Where to add the script tag?
 
 You can place the <script> tags, containing your JavaScript, anywhere within your web page, but it is normally recommended that you should keep it within the <head> tags.
@@ -146,7 +172,7 @@ A prompt box is often used if you want the user to input a value before entering
 ```
 window.prompt("sometext","defaultText");
 ```
-## Basic operators, maths
+## Basic operators
 ### Addition +
 The addition operator (+) adds numbers:
 ```
