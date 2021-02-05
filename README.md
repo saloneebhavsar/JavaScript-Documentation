@@ -1,3 +1,4 @@
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/salonee-bhavsar-96205b164/]
 <br />
 <h1 align="center">JavaScript-Documentation</h1>
 <p align="center">
