@@ -13,45 +13,18 @@
   <ol>
     <li>
       <a href="#Where to add the script tag?">Where to add the script tag?</a>
-      <ul>
-        <li><a href="#External-JavaScript">External JavaScript</a></li>
-      </ul>
     </li>
     <li>
       <a href="#Code-structure">Code structure</a>
-      <ul>
-        <li><a href="#Statements">Statements</a></li>
-        <li><a href="#Semicolons">Semicolons</a></li>
-        <li><a href="#Comments">Comments</a></li>
-      </ul>
     </li>
      <li>
       <a href="#Variables">Variables</a>
-      <ul>
-        <li><a href="#let">Let</a></li>
-        <li><a href="#const">Const</a></li>
-        <li><a href="#var">Var</a></li>
-      </ul>
     </li>
     <li>
       <a href="#Datatypes">Data Types</a>
-      <ul>
-        <li><a href="#Number">Number</a></li>
-        <li><a href="#String">String</a></li>
-        <li><a href="#Boolean">Boolean</a></li>
-        <li><a href="#Null">Null</a></li>
-        <li><a href="#Undefined">Undefined</a></li>
-        <li><a href="#Arrays">Arrays</a></li>
-        <li><a href="#Objects">Objects</a></li>
-      </ul>
     </li>
     <li>
       <a href="#Popup-Boxes">Popup Boxes</a>
-      <ul>
-        <li><a href="#Alert-Box">Alert Box</a></li>
-        <li><a href="#Confirm-Box">Confirm Box</a></li>
-        <li><a href="#Prompt-Box">Prompt Box</a></li>
-      </ul>
     </li>
     <li>
       <a href="#Basic-operators">Basic operators</a>
