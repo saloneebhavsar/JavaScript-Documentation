@@ -151,13 +151,34 @@ The exponentiation operator (**) results of raising the first operand to the pow
 var z = 2 ** 3;
 ```
 ## Conditional Statements
-### If
 
-Use if to specify a block of code to be executed, if a specified condition is true
+### If
+Use if to specify a block of code to be executed, if a specified condition is true.
+if (condition) {
+  //  block of code to be executed if the condition is true
+}
+
 ### Else
-Use else to specify a block of code to be executed, if the same condition is false
-Use else if to specify a new condition to test, if the first condition is false
-Use switch to specify many alternative blocks of code to be executed
+Use else to specify a block of code to be executed, if the same condition is false.
+```
+if (condition) {
+  //  block of code to be executed if the condition is true
+} else {
+  //  block of code to be executed if the condition is false
+}
+```
+
+### Else-If
+Use else if to specify a new condition to test, if the first condition is false.
+```
+if (condition1) {
+  //  block of code to be executed if condition1 is true
+} else if (condition2) {
+  //  block of code to be executed if the condition1 is false and condition2 is true
+} else {
+  //  block of code to be executed if the condition1 is false and condition2 is false
+}
+```
 
 
 
