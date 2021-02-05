@@ -8,6 +8,34 @@
     JavaScript is used to program the behavior of web pages. 
 </p>
 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Where to add the script tag?">Where to add the script tag?</a>
+      <ul>
+        <li><a href="#External-JavaScript">External JavaScript</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Code-structure">Code structure</a>
+      <ul>
+        <li><a href="#Statements">Statements</a></li>
+        <li><a href="#Semicolons">Semicolons</a></li>
+        <li><a href="#Comments">Comments</a></li>
+      </ul>
+    </li>
+     <li>
+      <a href="#Variables">Variables</a>
+      <ul>
+        <li><a href="#let">Let</a></li>
+        <li><a href="#const">Const</a></li>
+        <li><a href="#var">Var</a></li>
+      </ul>
+    </li>
+    
+  </ol>
+</details>
 ## Where to add the script tag?
 
 You can place the <script> tags, containing your JavaScript, anywhere within your web page, but it is normally recommended that you should keep it within the <head> tags.
