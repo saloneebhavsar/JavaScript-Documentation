@@ -1,13 +1,10 @@
 <p align="center">
   <a href="https://github.com/saloneebhavsar/JavaScript-Documentation">
     <img src="logo.png" alt="Logo" width="80" height="80" >
+    <h1 align="center">JavaScript-Documentation</h1>
+    JavaScript is used to program the behavior of web pages.
  </a>
 </p>
-<h1 align="center">JavaScript-Documentation</h1>
-<p align="center">
-  JavaScript is used to program the behavior of web pages.
-</p>
-
 
 ## Where to add the script tag?
 
