@@ -80,7 +80,7 @@ var carName1 = "Volvo XC60";
 ### Boolean
 Booleans can only have two values: true or false.
 ```
-let nameFieldChecked = true; // yes, name field is checked
+let nameFieldChecked = true;
 let ageFieldChecked = false;
 ```
 ### Null
@@ -150,6 +150,14 @@ The exponentiation operator (**) results of raising the first operand to the pow
 ```
 var z = 2 ** 3;
 ```
+## Conditional Statements
+### If
+
+Use if to specify a block of code to be executed, if a specified condition is true
+### Else
+Use else to specify a block of code to be executed, if the same condition is false
+Use else if to specify a new condition to test, if the first condition is false
+Use switch to specify many alternative blocks of code to be executed
 
 
 
