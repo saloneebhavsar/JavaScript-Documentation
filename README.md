@@ -1,5 +1,5 @@
  <a href="https://github.com/saloneebhavsar/JavaScript-Documentation">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80" style="center">
  </a>
 <h1 align="center">JavaScript-Documentation</h1>
 <p align="center">
