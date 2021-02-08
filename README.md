@@ -179,10 +179,11 @@ var z = 2 ** 3;
 ## Conditional Statements
 
 ### If
-Use if to specify a block of code to be executed, if a specified condition is true.
+```
 if (condition) {
   //  block of code to be executed if the condition is true
 }
+```
 
 ### Else
 ```
