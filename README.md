@@ -185,7 +185,7 @@ if (condition) {
 }
 
 ### Else
-Use else to specify a block of code to be executed, if the same condition is false.
+
 ```
 if (condition) {
   //  block of code to be executed if the condition is true
@@ -195,7 +195,7 @@ if (condition) {
 ```
 
 ### Else-If
-Use else if to specify a new condition to test, if the first condition is false.
+
 ```
 if (condition1) {
   //  block of code to be executed if condition1 is true
